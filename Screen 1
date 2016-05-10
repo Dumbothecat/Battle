@@ -1,0 +1,5 @@
+{pokemon = "false"}
+{name = "?"}
+{start speak}
+Professor: Hello! So glad to meet you! My name is Professor Fern! So glad to meet you! And you are?
+{brief pause}
